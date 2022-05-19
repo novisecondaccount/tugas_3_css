@@ -1,0 +1,18 @@
+p {
+    background-color: gray;
+}
+.p_pertama {
+    background-color: orange;
+}
+.p_kedua {
+    color: white;
+    background-color: blue;
+}
+.p_ketiga {
+    font-size: 1.5em;
+    border: solid 1px;
+    background-color: white;
+}
+.p_keempat {
+    font-weight: bold;
+}
